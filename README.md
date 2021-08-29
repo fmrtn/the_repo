@@ -7,4 +7,4 @@ This will be the repo to help to a friend of mine to learn something more the gi
 
 ## Content
 
-Jus push a new line to generate another commit in the repository.
+Just push a new line to generate another commit in the repository.
